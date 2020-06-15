@@ -1,7 +1,3 @@
----
-title: "Getting and Cleaning Data Project"
----
-
 
 This repository is a course project for the Getting and Cleaning Data. 
 
