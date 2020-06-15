@@ -1,11 +1,7 @@
 ---
 title: "Getting and Cleaning Data Project"
-output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 This repository is a course project for the Getting and Cleaning Data. 
 

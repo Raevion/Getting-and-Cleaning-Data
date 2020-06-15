@@ -1,11 +1,7 @@
 ---
 title: "CodeBook"
-output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 This file describes the variables, the data, and any transformations or work done to clean up the data.
 
